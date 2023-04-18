@@ -1,0 +1,8 @@
+button> 
+ Click here.
+ </button>
+
+ <style>
+ button {
+ background-color: red;
+ cursor: pointer;
